@@ -1,7 +1,7 @@
 # Theoretical-calculation-of-an-electric-vehicle-s-energy-demand-using-MATLAB
 This project focuses on the theoretical calculation of an electric vehicle’s energy demand using the EUDC (European Driving Cycle) as a reference input. The analysis is carried out using MATLAB scripting,with a focus on understanding the power,force and Energy requirements of an EV under European Driving Cycle conditions.
 ## What This Project Includes
--Calculation of **Total tractive force**,**Instantanious power** and **Energy demand**
+-Calculation of **Total tractive force**,**Instantaneous power** and **Energy demand**
 -Plotting of key results to visualize how Power,Force and Energy vary over velocity 
 -Visualization and understanding trends is emphasised
 ## Tools Used
